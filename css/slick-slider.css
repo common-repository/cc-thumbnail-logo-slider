@@ -1,0 +1,8 @@
+#slick-container {
+    margin:10px 10px 10px 20px;
+}
+
+#slick-container img {
+    height:80px; 
+    width:170px; 
+}
